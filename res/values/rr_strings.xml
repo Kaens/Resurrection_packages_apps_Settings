@@ -1758,7 +1758,7 @@
     <string name="lockscreen_solid_fudge_factor_title">Sanity level</string>
     <string name="lockscreen_solid_units_opacity_title">Solid lines opacity</string>
     <string name="ambient_visualizer_title">Ambient Display Visualizer</string>
-    <string name="ambient_visualizer_summary">Enable to show visualiser on ambient display as well</string>
+    <string name="ambient_visualizer_summary">Enable to show visualizer on ambient display as well</string>
 
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Quick unlock</string>
@@ -1827,7 +1827,7 @@
     <string name="navbar_gesture_mode_category_title">Gesture mode tweaks</string>
     <string name="navbar_gesture_mode_category_key">gesture_mode_tweaks</string>
     <string name="navigation_bar_show_title">Show navbar</string>
-    <string name="navigation_bar_show_summary">Force show/ hide navbar when needed</string>
+    <string name="navigation_bar_show_summary">Force show/hide navbar when needed</string>
     <!-- Gesture nav gear options -->
     <!-- [CHAR LIMIT=60] -->
     <string name="show_gestures_navbar_switch_text">Enable or disable whole navbar</string>
@@ -1921,7 +1921,7 @@
 
     <!-- OOS clear all button -->
     <string name="enable_clear_all_button">Replace clear all text with a new button</string>
-    <string name="enable_clear_all_button_summary">Show clear all notifications button in quick settings instead of default text one</string>
+    <string name="enable_clear_all_button_summary">Show clear all notifications button in Quick Settings instead of default text one</string>
     <string name="notif_bg_color_mode_title">Background color type</string>
     <string name="notif_icon_color_mode_title">Icon color type</string>
     <string name="notif_bg_color_title">Background color</string>
@@ -1973,24 +1973,24 @@
     <string name="lockscreen_albumart_filter_grayblur">Grayscale and blurred</string>
 
     <!-- Screen state service -->
-    <string name="screen_state_toggles_summary">Change different screen off actions</string>
+    <string name="screen_state_toggles_summary">Change different screen-off actions</string>
     <string name="screen_state_toggles_title">Suspend Actions</string>
     <string name="screen_state_toggles_enable_title">Enable</string>
-    <string name="screen_state_toggles_enable_summary">Actions will be executed on screen off. On screen on the previous state will be restored.</string>
+    <string name="screen_state_toggles_enable_summary">Actions will be executed on screen-off. On screen-on the previous state will be restored.</string>
     <string name="screen_state_toggles_mobile_title">Mobile networks</string>
     <string name="screen_state_toggles_location_title">Location</string>
     <string name="screen_state_toggles_twog">Switch to 2G</string>
-    <string name="screen_state_toggles_twog_summary">Network mode will be switched to 2G on screen off. NOTE: Some operators have deprecated 2G mode. If they do not support it, you will have no data active till you switch this off.</string>
+    <string name="screen_state_toggles_twog_summary">Network mode will be switched to 2G on screen-off. NOTE: Some operators have deprecated 2G mode. If they do not support it, you will have no data active till you switch this off.</string>
     <string name="screen_state_toggles_threeg">Switch to 3G</string>
-    <string name="screen_state_toggles_threeg_summary">Network mode will be switched to 3G on screen off</string>
+    <string name="screen_state_toggles_threeg_summary">Network mode will be switched to 3G on screen-off</string>
     <string name="screen_state_toggles_gps">Disable GPS</string>
-    <string name="screen_state_toggles_gps_summary">GPS based location service will be disabled on screen off</string>
+    <string name="screen_state_toggles_gps_summary">GPS based location service will be disabled on screen-off</string>
     <string name="screen_state_toggles_mobile_data">Disable mobile data</string>
-    <string name="screen_state_toggles_mobile_data_summary">Mobile data will be disabled on screen off</string>
+    <string name="screen_state_toggles_mobile_data_summary">Mobile data will be disabled on screen-off</string>
     <string name="screen_state_off_delay_title">Off actions delay</string>
-    <string name="screen_state_off_delay_summary">Number of seconds to wait before performing actions after screen off</string>
+    <string name="screen_state_off_delay_summary">Number of seconds to wait before performing actions after screen-off</string>
     <string name="screen_state_on_delay_title">On actions delay</string>
-    <string name="screen_state_on_delay_summary">Number of seconds to wait before performing actions after screen on</string>
+    <string name="screen_state_on_delay_summary">Number of seconds to wait before performing actions after screen-on</string>
     <!-- Bluetooth status -->
     <string name="bluetooth_battery_title">Bluetooth battery status</string>
     <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
@@ -2080,8 +2080,8 @@
     <string name="qs_tile_accent">Accent</string>
     <string name="qs_panel_bg_rgb_dur_title">Duration of animation</string>
     <string name="qs_label_tint_title">Active Label tint</string>
-    <string name="rr_qs_label_title">Qs label</string>
-    <string name="qs_title_disabled">Qs labels are disabled. Scroll above and enable tiles titles.</string>
+    <string name="rr_qs_label_title">QS label</string>
+    <string name="qs_title_disabled">QS labels are disabled. Scroll above and enable tiles titles.</string>
     <string name="qs_label_inactive_tint_title">Tint inactive labels</string>
     <string name="qs_label_inactive_tint_summary">Tint the label of inactive tile titles as well</string>
     <string name="qs_tile_accent_tint_inactive_title">Tint inactive tiles</string>
@@ -2149,7 +2149,7 @@
     <string name="lockscreen_date_selection_str_border_accent">Dark with accented borders</string>
     <string name="lockscreen_date_selection_str_border_gradient">Dark with gradient borders</string>
     <string name="lockscreen_date_selection_str_border_gradient_color">Gradient colors (accent start gradient end)</string>
-    <string name="lockscreen_date_selection_str_border_gradient_color2">Gradient colors(gradient start accent end)</string>
+    <string name="lockscreen_date_selection_str_border_gradient_color2">Gradient colors (gradient start accent end)</string>
     <string name="lock_item_left">Left Aligned</string>
     <string name="lock_item_center">Center Aligned</string>
     <string name="lock_item_right">Right Aligned</string>
@@ -2176,9 +2176,9 @@
     <string name="sms_breath_title">Breathing SMS</string>
     <string name="sms_breath_summary">Will give your sms notifications a breathing effect in the status bar. Only works on AOSP messenger.</string>
     <string name="missed_call_breath_title">Breathing Missed Call</string>
-    <string name="missed_call_breath_summary">Will give your missed call notifications a breathing effect in the statusbar. Only works with AOSP dialer</string>
+    <string name="missed_call_breath_summary">Will give your missed call notifications a breathing effect in the status bar. Only works with AOSP dialer.</string>
     <string name="voicemail_breath_title">Breathing Voicemail</string>
-    <string name="voicemail_breath_summary">Will give your voicemail notifications a breathing effect in the statusbar</string>
+    <string name="voicemail_breath_summary">Will give your voicemail notifications a breathing effect in the status bar.</string>
 
     <!-- QS Running Services Icon -->
     <string name="qs_running_services_title">Show running services icon</string>
@@ -2218,20 +2218,20 @@
     <string name="lockscreen_weather_icon_color">Weather Icon Color</string>
     <string name="lockscreen_weather_selection_title">Weather Background</string>
     <string name="lockscreen_weather_alignment_title">Lockscreen Weather Alignment</string>
-    <string name="lockscreen_date_alignment_title">Lockscreen date Alignment</string>
+    <string name="lockscreen_date_alignment_title">Lockscreen Date Alignment</string>
     <string name="lock_weather_cust_title">Weather customisations</string>
-    <string name="lockscreen_ownerinfo_alignment_title">Lockscreen ownerInfo Alignment</string>
-    <string name="lockscreen_item_padding_title">Ownerinfo Padding</string>
+    <string name="lockscreen_ownerinfo_alignment_title">Lockscreen Owner Info Alignment</string>
+    <string name="lockscreen_item_padding_title">Owner Info Padding</string>
     <string name="rr_owner_info_settings_title">Owner info text</string>
     <string name="lockscreen_date_padding_title">Date padding</string>
     <string name="lockscreen_weather_padding_title">Weather padding</string>
-    <string name="divided_clock_summary">It seems you have Divided lines clock enabled and hence pixel style weather cannot be used.</string>
-    <string name="mnml_summary">It seems you have MNML\'s Box clock enabled and hence pixel style weather cannot be used</string>
+    <string name="divided_clock_summary">It seems you have Divided lines clock enabled and hence Pixel style weather cannot be used.</string>
+    <string name="mnml_summary">It seems you have MNML\'s Box clock enabled and hence Pixel style weather cannot be used.</string>
     <string name="yes">YES</string>
     <string name="pixel_weather_warning">Pixel style weather is enabled. Please disable to customise weather colors. Also pixel style weather is aligned with lockscreen date. To customise weather bg, alignment &amp; color consider heading back to lockscreen settings to align date and use lockdate colors to customise colors.</string>
     <string name="clock_ui_warning">Ensure to set system gradient color to make all date background options visible.</string>
     <string name="rr_ls_battery_sum">Choose and customise battery options on lockscreen such as charging style</string>
-    <string name="date_disabled_summary">Lockscreen date is disabled. Weather will be forced to non-pixel style. Go back and enable lockscreen date to use this setting. Ensure to set system gradient color to make all weather background options visible.</string>
+    <string name="date_disabled_summary">Lockscreen date is disabled. Weather will be forced to non-Pixel style. Go back and enable lockscreen date to use this setting. Ensure to set system gradient color to make all weather background options visible.</string>
 
 	<!-- Battery health -->
     <string name="battery_health_title">Battery health</string>
@@ -2262,7 +2262,7 @@
     <string name="power_menu_bg_title">Background Filter</string>
     <string name="power_menu_bg_summary">Enables Custom filter when powermenu is active</string>
     <string name="power_menu_bg_style_title">Filter Type</string>
-    <string name="lockscreen_cover_filter_title">Media cover art filter</string>
+    <string name="lockscreen_cover_filter_title">Media Cover Art Filter</string>
     <string name="lockscreen_cover_filter_none">None</string>
     <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
     <string name="lockscreen_cover_filter_blur">Blur</string>
@@ -2291,7 +2291,7 @@
 
     <!-- LS Weather Temp & City Fonts -->
     <string name="lock_weather_temp_font_title">LS Weather Temp font</string>
-    <string name="lock_weather_temp_font_summary">Change the default font of the lockscreen weather temp</string>
+    <string name="lock_weather_temp_font_summary">Change the default font of the lockscreen weather temperature</string>
     <string name="lock_weather_temp_font_dialog_title">Select lock weather temp font</string>
     <string name="lock_weather_city_font_title">LS Weather City font</string>
     <string name="lock_weather_city_font_summary">Change the default font of the lockscreen weather city</string>
@@ -2331,10 +2331,10 @@
     <string name="lock_clock_font_dancingscript">DancingScript</string>
     <string name="lock_clock_font_dancingscript_bold">DancingScript Bold</string>
     <string name="lock_clock_font_comingsoon">ComingSoon</string>
-    <string name="lock_clock_font_notoserif">NotoSerif Normal</string>
-    <string name="lock_clock_font_notoserif_italic">NotoSerif Italic</string>
-    <string name="lock_clock_font_notoserif_bold">NotoSerif Bold</string>
-    <string name="lock_clock_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
+    <string name="lock_clock_font_notoserif">Noto Serif Normal</string>
+    <string name="lock_clock_font_notoserif_italic">Noto Serif Italic</string>
+    <string name="lock_clock_font_notoserif_bold">Noto Serif Bold</string>
+    <string name="lock_clock_font_notoserif_bold_italic">Noto Serif Bold Italic</string>
     <string name="lock_clock_font_25">Accurist</string>
     <string name="lock_clock_font_26">Aclonica</string>
     <string name="lock_clock_font_27">Amarante</string>
@@ -2382,14 +2382,14 @@
     <string name="lock_clock_font_69">Dumbledor</string>
     <string name="lock_clock_font_70">Linotte</string>
 
-    <!-- One ui actionbar -->
+    <!-- OneUI action bar -->
     <string name="enable_oneui">OneUI</string>
     <string name="rr_spacer_cat">Dashboard spacer</string>
     <string name="enable_oneui_summary">Show spacer above settings dashboard for easier use with one hand</string>
     <string name="settings_spacer_style_title">Spacer style</string>
     <string name="settings_spacer_font_style_title">Spacer font style</string>
     <string name="settings_spacer_image_style_title">Spacer image style</string>
-    <string name="settings_spacer_image_style_summary">Toggle to show profile avatar , rr logo or custom image</string>
+    <string name="settings_spacer_image_style_summary">Toggle to show profile avatar, rr logo, or custom image</string>
     <string name="settings_spacer_image_searchbar_title">Hide search bar image</string>
     <string name="settings_spacer_image_searchbar_summary">Toggle to hide profile avatar from search bar</string>
     <string name="settings_searchbar_color">Search bar background color</string>
@@ -2416,7 +2416,7 @@
     <string name="settings_spacer_image_crop_title">Image size</string>
     <string name="settings_image_style_0">Static image</string>
     <string name="settings_image_style_1">User avatar</string>
-    <string name="settings_image_style_2">RR logo (material)</string>
+    <string name="settings_image_style_2">RR logo (Material)</string>
     <string name="settings_image_style_3">Custom image</string>
     <string name="settings_image_style_4">RR logo (primary color tinted)</string>
     <string name="settings_image_style_5">RR logo (accent tinted)</string>
@@ -2519,7 +2519,7 @@
     <string name="theme_type_charcoal_black">Charcoal Black</string>
     <string name="theme_type_dark_grey">Dark Grey</string>
     <string name="theme_type_material_ocean">Material Ocean</string>
-    <string name="gardient_enabled_summary">It looks like you have disabled Qs background gradient from header settings. Go to header settings and disable this feature and come back here.</string>
+    <string name="gardient_enabled_summary">It looks like you have disabled QS background gradient from header settings. Go to header settings and disable this feature and come back here.</string>
     <string name="theme_type_rr_clear">Resurrection Clear</string>
     <string name="theme_type_rr_clear2">Resurrection Clear 2.0 (experimental)</string>
 
@@ -2533,7 +2533,7 @@
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
     <string name="theme_customization_font_title">Headline / Body font</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
-    <string name="theme_customization_icon_shape_title">Adapative icon shape</string>
+    <string name="theme_customization_icon_shape_title">Adaptive icon shape</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the statusbar icon -->
     <string name="theme_customization_sysui_icon_title">Statusbar Icon shape</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Label for the option that turns off customizations for a given category.-->
@@ -2562,7 +2562,7 @@
 
     <!-- Aggressive battery -->
     <string name="aggressive_battery_title">Aggressive Battery</string>
-    <string name="aggressive_battery_summary">More strict battery savings</string>
+    <string name="aggressive_battery_summary">Stricter battery savings</string>
     <string name="aggressive_battery_warning_text">These are power saving features. They may interfere with services intended to run at idle, like navigation apps. You can whitelist these apps from being affected in the app battery settings.</string>
     <string name="aggressive_idle_title">Aggressive Idle</string>
     <string name="aggressive_idle_summary">Enter device idle more frequently and wake up less</string>
@@ -2681,9 +2681,8 @@
     <string name="no_stat_because_reset_wakelock">Press reset to start collecting wakelock data</string>
     <string name="no_stat_because_plugged">Please unplug power to get wakelock data</string>
     <string name="no_states_file_found">No states file found. Are you sure your phone is
-        compatible?\n\nIf you are running a custom ROM or kernel, try
-        contacting its developer to inform him that the states file is not
-        readable.</string>
+        compatible?\n\nTry contacting the maintainer of your device
+	to inform them that the states file is not readable.</string>
     <string name="deep_sleep">"Deep Sleep"</string>
     <string name="mt_refresh">Refresh</string>
     <string name="mt_share">Share</string>
@@ -2692,8 +2691,8 @@
     <string name="time_in_state_summary">Show CPU frequency statistics</string>
 
     <!-- Qs Tile Icon Bright-Dark -->
-    <string name="qs_icon_primary_title">Qs Tile Icon Bright|Dark</string>
-    <string name="qs_icon_primary_summary">Make Qs Icon Bright-Dark if the qs panel color and icon color matches</string>
+    <string name="qs_icon_primary_title">QS Tile Icon Bright|Dark</string>
+    <string name="qs_icon_primary_summary">Make QS Icon Bright-Dark if the QS Panel color and icon color match</string>
 
     <!-- QS themes -->
     <string name="qs_themes_category_title">QS Themes</string>
@@ -2709,7 +2708,7 @@
     <string name="qs_tint_off">Tint Off</string>
     <string name="qs_tint_random">Random Color Tint</string>
     <string name="qs_tint_accent">Accent Color Tint</string>
-    <string name="qs_disco_mode">Qs Disco Mode</string>
+    <string name="qs_disco_mode">QS Disco Mode</string>
 
     <!-- HW keys -->
     <string name="hardware_keys_title">Hardware</string>
@@ -2898,7 +2897,7 @@
     <!-- QS Settings button-->
     <string name="qs_footer_settings_title">Settings icon</string>
     <string name="qs_settings_disable">Disable</string>
-    <string name="qs_settings_expanded_panel">Show in expanded qs panel</string>
+    <string name="qs_settings_expanded_panel">Show in expanded QS panel</string>
     <string name="qs_settings_always">Show always</string>
     <string name="qs_footer_user_title">User switcher icon</string>
     <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
@@ -2920,19 +2919,19 @@
     <!-- QS data usage location -->
     <string name="qs_data_usage_location_title">Qs Data Usage Location</string>
     <string name="qs_data_usage_location_qs_panel">QS Panel</string>
-    <string name="qs_data_usage_location_qs_statusbar">Quick Statusbar</string>
+    <string name="qs_data_usage_location_qs_statusbar">Quick Status Bar</string>
 
     <!-- QS Themes Type Background -->
     <string name="qs_image_title">QS Image</string>
     <string name="qs_bg_type_title">QS Panel Background</string>
-    <string name="qs_bg_type_summary">Enable custom qs background</string>
+    <string name="qs_bg_type_summary">Enable custom QS background</string>
     <string name="qs_bg_blur_image_title">Blur Image</string>
-    <string name="qs_bg_blur_image_summary">Blur custom image.Note: blur may not work on some images</string>
+    <string name="qs_bg_blur_image_summary">Blur custom image. Note: blur may not work on some images</string>
 
     <!-- Permissions hub toggle -->
     <string name="rr_privacy_title">Privacy indicators</string>
-    <string name="show_permissions_hub">Show privacy indicator in statusbar</string>
-    <string name="show_permissions_hub_summary_off">Privacy indicators disabled. Toggle to display privacy indicators like camera &amp; microphone in statusbar when being used.</string>
+    <string name="show_permissions_hub">Show privacy indicator in status bar</string>
+    <string name="show_permissions_hub_summary_off">Privacy indicators disabled. Toggle to display privacy indicators like camera &amp; microphone in status bar when being used.</string>
     <string name="show_permissions_hub_summary_on">Privacy indicators enabled in status bar, if you wish to disable camera or microphone individually, head back to status bar tuner and un-check them.</string>
     <string name="permissions_hub_qs">Show privacy indicator in QS header</string>
     <string name="permissions_hub_qs_summary">Display privacy indicators like camera &amp; microphone in QS header when being used.</string>
@@ -2973,7 +2972,7 @@
     <string name="rr_statusbar_icon_text">Choose from various statusbar icon shapes. These apply to icons in the status bar only like wifi, signal, bluetooth, battery and so on</string>
     <string name="rr_systemui_icon_text">Choose from various SystemUI icon shapes. These apply to icons related to volume panel and small other SystemUI elements like sound related icons</string>
     <string name="rr_settings_icon_text">Choose from various Settings icon shapes. These apply to icons related to Settings dashboard icons. These icons do not affect RR tools</string>
-    <string name="rr_dark_theme_text">Choose from a large option of themes. Be sure to restart settings to avoid glitches when applying clear themes. Be sure to restart SystemUI if you run into issues or system slowdowns after applying many themes.</string>
+    <string name="rr_dark_theme_text">Choose from a large variety of themes. Be sure to restart settings to avoid glitches when applying clear themes. Be sure to restart SystemUI if you run into issues or system slowdowns after applying many themes.</string>
     <string name="icon_pack_default">Default</string>
     <string name="icon_pack_rounded">Rounded</string>
     <string name="icon_pack_multi">Multi</string>
